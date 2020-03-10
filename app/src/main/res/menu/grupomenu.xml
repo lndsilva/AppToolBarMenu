@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/gpMenu">
+        <item
+            android:id="@+id/mGpAlterar"
+            android:title="Alterar" />
+        <item
+            android:id="@+id/mGpExcluir"
+            android:title="Excluir" />
+    </group>
+
+    <item
+        android:id="@+id/mGpSair"
+        android:title="Sair" />
+
+</menu>

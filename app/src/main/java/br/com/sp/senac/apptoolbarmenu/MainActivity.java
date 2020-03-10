@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
+
     //O menu foi Inflado
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

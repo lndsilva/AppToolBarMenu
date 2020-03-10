@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sbMenu"
+        android:title="Arquivo">
+        <menu>
+            <item
+                android:id="@+id/mSubSalvar"
+                android:title="Salvar" />
+            <item
+                android:id="@+id/mSubSalvarComo"
+                android:title="Salvar Como" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mFechar"
+        android:title="Fechar" />
+
+</menu>
