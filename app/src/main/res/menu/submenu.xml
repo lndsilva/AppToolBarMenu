@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/sbMenu"
+        android:id="@+id/mSubMenu"
         android:title="Arquivo">
         <menu>
             <item
@@ -14,7 +14,7 @@
         </menu>
     </item>
     <item
-        android:id="@+id/mFechar"
+        android:id="@+id/mSubFechar"
         android:title="Fechar" />
 
 </menu>

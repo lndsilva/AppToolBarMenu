@@ -6,7 +6,7 @@
         android:id="@+id/mSalvar"
         android:icon="@drawable/ic_save"
         android:title="Salvar"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="ifRoom|withText" />
     <item
         android:id="@+id/mAlterar"
         android:icon="@drawable/ic_update"
@@ -23,9 +23,19 @@
         android:title="Buscar"
         app:showAsAction="ifRoom" />
     <item
+        android:id="@+id/mAbrir"
+        android:icon="@drawable/ic_open"
+        android:title="Abrir"
+        app:showAsAction="ifRoom" />
+    <item
         android:id="@+id/mSair"
         android:icon="@drawable/ic_exit"
         android:title="Sair"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mGrupoMenu"
+        android:icon="@drawable/ic_group"
+        android:title="Grupo Menu"
         app:showAsAction="ifRoom" />
 
 
